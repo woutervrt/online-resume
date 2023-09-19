@@ -1,7 +1,9 @@
+body{
+   font-family: 'Handlee', cursive;
+}
 
 .header{
   color: red;
-	 font-family: 'Handlee', cursive;
 }
 
 #education{
